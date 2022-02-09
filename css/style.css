@@ -154,6 +154,10 @@
     all: unset;
 }
 
+.aboutMe {
+    font-family: "Sofia", sans-serif;
+}
+
 /* basic modern patch */
 
 #reset-this-root {
